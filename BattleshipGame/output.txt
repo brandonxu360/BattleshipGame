@@ -1,0 +1,13 @@
+Player 1
+Hits: 16
+Misses: 80
+Shots: 96
+Accuracy: 0.166667
+Wins: 0
+
+Player 2
+Hits: 17
+Misses: 79
+Shots: 96
+Accuracy: 0.177083
+Wins: 1
